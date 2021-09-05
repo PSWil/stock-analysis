@@ -42,4 +42,4 @@ Refactoring has some huge advantages if you are able to do it correctly. Increas
 
 ### Disadvantages 
 
-While the advantages can seem obvious, refactoring your code comes with some risk. When refactoring your code you run the risk of breaking something that was already working. To avoid this it is highly recomended that you save your code often and have back ups that you can quickly call upon so that you can back track step by step so you dont have to completely start over with your code. 
+While the advantages can seem obvious, refactoring your code comes with some risk. When refactoring your code you run the risk of breaking something that was already working. To avoid this it is highly recomended that you save your code often and have back ups that you can quickly call upon so that you can back track step by step so you dont have to completely start over with your code. On this challenge in particular I had to back up to the original code several times in order to fix errors that I was experiencing.
