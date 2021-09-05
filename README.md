@@ -27,7 +27,7 @@ While the retuns for Green Stocks in 2018 appear much lower than 2017, which the
 
 ### Execution Time
 
-
+As you can see below, our refactored code works and run much more efficiently. This new code is able to run through all the data in roughly 80% faster than the original code!
 
 ![2017 Initial Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/Original_Run_2017.png)
 ![2017 Refactored Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
