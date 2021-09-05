@@ -33,10 +33,13 @@ As you can see below, our refactored code works and run much more efficiently. T
 ![2017 Refactored Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![2018 Initial Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/Original_Run_2018.png)
 ![2018 Refactored Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
-
-
 	
 ## Summary
 		
 ### Advantages
+
+Refactoring has some huge advantages if you are able to do it correctly. Increasing the efficency of your code will enable it to be used with larger data sets in a timely maner. Our 80% reduction is quite large and is more than worth the effort it took making it more efficient to run in the future.
+
 ### Disadvantages 
+
+While the advantages can seem obvious, refactoring your code comes with some risk. When refactoring your code you run the risk of breaking something that was already working. To avoid this it is highly recomended that you save your code often and have back ups that you can quickly call upon so that you can back track step by step so you dont have to completely start over with your code. 
