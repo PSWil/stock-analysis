@@ -31,6 +31,10 @@ Now that I have created these arrays, I can use Nested For Loops and variables t
 
 ### Execution Time
 
+![2017 Initial Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/Original_Run_2017.png)
+![2017 Refactored Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![2018 Initial Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/Original_Run_2018.png)
+![2018 Refactored Run Time](https://github.com/PSWil/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
 	
